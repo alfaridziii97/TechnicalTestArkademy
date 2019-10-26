@@ -1,1 +1,16 @@
-{"data":[{"id":"USR1","name":"Steve Jobs","company":"Apple"},{"id":"USR2","name":"Bill Gates","company":"Microsoft"},{"id":"USR3","name":"Mark Zuckerberg","company":"Facebook"}]}
+[
+  {
+    name: "Movies", info: "category_name",
+    data: [
+      { name: "Interstellar", info: "category_data" },
+      { name: "Dark Knight", info: "category_data" },
+    ]
+  },
+  {
+    name: "Music", info: "category_name",
+    data: [
+      { name: "Adams", info: "category_data" },
+      { name: "Nirvana", info: "category_data" },
+    ]
+  }
+]
